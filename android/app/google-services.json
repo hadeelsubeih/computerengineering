@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156296860134",
+    "project_id": "computerengineering-3bb80",
+    "storage_bucket": "computerengineering-3bb80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156296860134:android:4ea58bb00db7812dba8627",
+        "android_client_info": {
+          "package_name": "com.example.computerengineering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156296860134-435k1n200ub81n43c5d300a1493d8b1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP37RBk_r6GoGINSJVELgXcWkT-ina7Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156296860134-435k1n200ub81n43c5d300a1493d8b1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
